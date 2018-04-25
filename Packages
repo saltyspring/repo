@@ -26,7 +26,6 @@ Maintainer: iC <apt@macciti.com>
 Author: Alex Sanchez <alexsanchez318824@icloud.com>
 Section: Themes (SpringBoard)
 Depiction: http://saltyspring.github.io/repo/depictions/amury
-tag: cydia::commercial
 Filename: ./debs/com.macciti.amury.deb
 Size: 15363408
 MD5sum: B3FED52592F459BEF099FCBEE3CC87FB
