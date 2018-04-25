@@ -29,3 +29,18 @@ Depiction: http://www.macciti.com/pages/amury/index.php
 Filename: ./debs/com.macciti.amury.deb
 Size: 15363408
 MD5sum: B3FED52592F459BEF099FCBEE3CC87FB
+
+Package: com.macciti.nuvo
+Name: NUVO
+Version: 1.3
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: A refreshing take on iOS
+Maintainer: iC <apt@macciti.com>
+Author: ikon <desk@taptounlock.me>
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+Section: Themes (SpringBoard)
+Depiction: http://www.macciti.com/pages/nuvo/index.php
+Filename: ./debs/com.macciti.nuvo.deb
+Size: 4233470
+MD5sum: 815752798F4A7EB3306DCADA80AD1F54
