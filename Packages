@@ -1,0 +1,17 @@
+Package: com.imkpatil.floatingdock
+Version: 1.1-21
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 268
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.1-21_iphoneos-arm.deb
+Size: 28858
+MD5sum: d887aeb9bca3250aeeba372b6852659e
+SHA1: 763fe1bfa82ca33612da2a4a288ec9f707928fab
+SHA256: f7b4e6d0005dc3948f87442a782615148dbf9fabd8cf878deb77c9470c58d414
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
