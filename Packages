@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Kiran Patil
 Installed-Size: 268
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.imkpatil.floatingdock_1.1-21_iphoneos-arm.deb
+Filename: ./debs/com.imkpatil.floatingdock
 Size: 28858
 MD5sum: d887aeb9bca3250aeeba372b6852659e
 SHA1: 763fe1bfa82ca33612da2a4a288ec9f707928fab
@@ -25,10 +25,12 @@ Description: Bring your iOS experience to life.
 Maintainer: iC <apt@macciti.com>
 Author: Alex Sanchez <alexsanchez318824@icloud.com>
 Section: Themes (SpringBoard)
-Depiction: http://www.macciti.com/pages/amury/index.php
+Depiction: http://saltyspring.github.io/repo/depictions/amury
 Filename: ./debs/com.macciti.amury.deb
 Size: 15363408
 MD5sum: B3FED52592F459BEF099FCBEE3CC87FB
+SHA1: 2279AB8B494CF80F56345005DE722CB4BBEAE5FF
+SHA256: 36DFD2C1879BCA2E52F4A689AA9748DB150B3C9EB7CBE7A344C36D30CA0FFED2
 
 Package: com.macciti.nuvo
 Name: NUVO
@@ -40,7 +42,9 @@ Maintainer: iC <apt@macciti.com>
 Author: ikon <desk@taptounlock.me>
 Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
 Section: Themes (SpringBoard)
-Depiction: http://www.macciti.com/pages/nuvo/index.php
+Depiction: http://saltyspring.github.io/repo/depictions/Nuvo
 Filename: ./debs/com.macciti.nuvo.deb
 Size: 4233470
 MD5sum: 815752798F4A7EB3306DCADA80AD1F54
+SHA1: 9866568BC9EC159C166ABE604D552E0B0DE2D7C2
+SHA256: F69FC1B5AA353A2D365FBAD125E00D410EF4306655E79B6FFBFFBBB45E88138A
