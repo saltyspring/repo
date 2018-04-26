@@ -44,3 +44,20 @@ Depiction: http://www.macciti.com/pages/nuvo/index.php
 Filename: ./debs/com.macciti.nuvo.deb
 Size: 4233470
 MD5sum: 815752798f4a7eb3306dcada80ad1f54
+
+Package: com.julioverne.ext3nder-installer
+Filename: ./debs/com.julioverne.ext3nder-installer.deb
+Name: Ext3nder Installer
+Author: julioverne, SaltySpring, MidnightChips
+Version: 16.6
+Pre-Depends: unzip, zip, sed
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio, SaltySpring, MidnightChips
+Section: Utilities
+Depiction: https://midnightchip.github.io/repo/depictions/?p=com.julioverne.ext3nder-installer
+Size: 579542
+SHA1: 8f2b09fe40221fab2491a1700dd47307dfe14b8f 
